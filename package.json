@@ -1,0 +1,22 @@
+{
+  "name": "contador",
+  "version": "1.0.0",
+  "description": "App contador",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManoelMateusBorges/Contador.git"
+  },
+  "author": "Manoel Mateus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManoelMateusBorges/Contador/issues"
+  },
+  "homepage": "https://github.com/ManoelMateusBorges/Contador#readme",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
